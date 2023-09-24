@@ -22,4 +22,7 @@ public class MainActivity extends AppCompatActivity {
     public void onBtnChangeTextClick(View view) {
         this.tvMain.setText("Labas Pasauli");
     }
+
+
+    //some extra task that will be reverted
 }
